@@ -1,2 +1,2 @@
 # k_screen_log
-Librería para enviar mensajes por pantalla en utilidades python de línea de comandos.
+Library to log messages to screen or log files for python command line utilities.
